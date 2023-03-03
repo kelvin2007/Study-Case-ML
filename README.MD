@@ -1,12 +1,12 @@
 # **Study Case : HELP Intenational** <br/> 
 
-<font size="5"> <b> Problem Descriptions </b></font>
+<font size="12"> <b> Problem Descriptions </b></font>
  <br />
 (---- ***The Following Descriptions Are Written In Indonesian*** ----)  <br />
 HELP International telah berhasil mengumpulkan sekitar $ 10 juta. Saat ini, CEO LSM perlu memutuskan bagaimana menggunakan uang ini secara strategis dan efektif. Jadi, CEO harus mengambil keputusan untuk memilih negara yang paling membutuhkan bantuan. Oleh karena itu, tugas pada projek kali ini adalah mengkategorikan negara menggunakan beberapa faktor sosial ekonomi dan kesehatan yang menentukan perkembangan negara secara keseluruhan. Kemudian, tentukan negara mana saja yang paling perlu menjadi fokus CEO.
  <br />
  
- <font size="5"> <b> Data Dictionary </b></font>
+ <font size="12"> <b> Data Dictionary </b></font>
  <br />
 (---- ***The Following Specifications Are Written In Indonesian*** ----) 
 - Negara : Nama negara
@@ -20,7 +20,7 @@ HELP International telah berhasil mengumpulkan sekitar $ 10 juta. Saat ini, CEO 
 - Jumlah_fertiliti: Jumlah anak yang akan lahir dari setiap wanita jika tingkat kesuburan usia saat ini tetap sama
 - GDPperkapita: GDP per kapita. Dihitung sebagai Total GDP dibagi dengan total populasi.
  
- <font size="5"> <b> Steps </b></font>
+ <font size="12"> <b> Steps </b></font>
 
 1. Reading and Understanding Data
  - Import necessary libraries
