@@ -21,4 +21,17 @@ HELP International telah berhasil mengumpulkan sekitar $ 10 juta. Saat ini, CEO 
 - GDPperkapita: GDP per kapita. Dihitung sebagai Total GDP dibagi dengan total populasi.
  <br />
  
- 
+ <font size="5"> <b> Steps </b></font>
+
+1. Reading and Understanding Data
+ - Import necessary libraries
+ - Read and inspect data
+2. Exploratory Data Analysis
+ - Data cleansing
+ - Univariate Analysis
+ - Bivariate Analysis
+ - Multivariate Analysis
+3. Outliers Treatment
+4. Scaling Data
+5. Creating KMeans Clustering and Visualizing Clusters Formed
+6. Report Countries
