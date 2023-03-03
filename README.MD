@@ -19,7 +19,6 @@ HELP International telah berhasil mengumpulkan sekitar $ 10 juta. Saat ini, CEO 
 - Harapan_hidup: Jumlah tahun rata-rata seorang anak yang baru lahir akan hidup jika pola kematian saat ini tetap sama
 - Jumlah_fertiliti: Jumlah anak yang akan lahir dari setiap wanita jika tingkat kesuburan usia saat ini tetap sama
 - GDPperkapita: GDP per kapita. Dihitung sebagai Total GDP dibagi dengan total populasi.
- <br />
  
  <font size="5"> <b> Steps </b></font>
 
